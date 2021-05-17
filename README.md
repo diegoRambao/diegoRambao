@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Rambao</h1>
 <h3 align="center">A passionate Software Developer from Colombia</h3>
 
-- 🌱 I’m currently learning **UI/UX**
+- 🌱 I’m currently learning **Design UI/UX**
 
 - 👨‍💻 All of my projects are available at [diegorambao.vercel.app](https://diegorambao.vercel.app/)
 
