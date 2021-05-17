@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Python, UI/UX, Vuejs**
 
-- 👨‍💻 All of my projects are available at [diegorambao.github.io](diegorambao.github.io)
+- 👨‍💻 All of my projects are available at [diegorambao.vercel.app](https://diegorambao.vercel.app/)
 
-- 📫 How to reach me **diegoandrestrom04@gmail.com**
+- 📫 How to reach me **diegorambaojimenez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
